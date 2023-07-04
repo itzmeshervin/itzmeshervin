@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzmeshervin
 - 👀 I’m interested in the field of cyber sercurity , pentesting etc. I love to hack systems for good.
-- 🌱 I’m currently learning the basics of ethical hacking , bug hunting ...
+- 🌱 I’m currently pursuing Btech degree in Computer Science ...
 - 📫 Reach me via https://www.linkedin.com/in/shervin-j-915257255/
 
 <!---
